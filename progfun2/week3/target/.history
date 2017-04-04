@@ -1,0 +1,9 @@
+submit juancroca@gmail.com TFdF1EKBfTCpYz2o
+submit juancroca@gmail.com KtNHjIbn74m2u6YY
+val a1 = List[Char]
+val a1: List[Char]
+val a1:List[Char]
+val a1 = List[Char]()
+val a1 = List('a')
+val a11 = List('a')
+console
